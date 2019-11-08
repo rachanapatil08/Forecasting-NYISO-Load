@@ -1,2 +1,4 @@
 # Forecasting-NYISO-Load
-Performed data transformations and built a forecasting model using ARIMA
+
+Fetched the data for load from NYISO website using R and performed in-memory transformations.
+Used ARIMA model to anticipate future load.
